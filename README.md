@@ -7,3 +7,5 @@
 3. Modeli oluşturun ve K-Means Makine Öğrenimi algoritmasını kullanarak clustering işlemini gerçekleştirin.
 4. Kümeleme sonuçlarımızı iyi bilinen coğrafi harita sistemi (OpenStreetMap) üzerinde görselleştirin
 5. Son olarak, ortaya çıkan coğrafi haritamızı herhangi bir web sitesinde kolayca bulunabilmesi için bir html dosyasına aktarın
+
+data link : https://www.kaggle.com/c/sf-crime/data
